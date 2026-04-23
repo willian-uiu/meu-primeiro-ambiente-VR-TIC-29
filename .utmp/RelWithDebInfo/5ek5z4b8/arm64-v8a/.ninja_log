@@ -1,0 +1,10 @@
+# ninja log v5
+33	2831	7943462184967806	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	1c0833f0a466a77b
+45	2843	7943462184867437	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4476e0815d376f8
+68	2861	7943462185567653	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e51179dd1a2fe9c2
+22	2889	7943462185712907	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	cdde776aa9c12c89
+0	2906	7943462185883750	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1f4a59a49b60ae92
+56	3477	7943462191728453	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ba927b8c2ac49cd9
+83	3535	7943462192296930	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	985a3413b539e0fd
+11	3700	7943462193969528	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5cdf124e5412fd59
+3701	3914	7943462196196467	C:/Users/willi/minha casa medieval/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ek5z4b8/obj/arm64-v8a/libgame.so	6c716fa4e0bdc411
